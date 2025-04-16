@@ -1006,7 +1006,7 @@ dependencies = [
 
 [[package]]
 name = "pgrx"
-version = "0.11.0"
+version = "0.11.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "bd3c4b36fbe84329b86c83bfd33b9514a50606f00074f47085f99062a7dd8c9c"
 dependencies = [
@@ -1031,7 +1031,7 @@ dependencies = [
 
 [[package]]
 name = "pgrx-macros"
-version = "0.11.0"
+version = "0.11.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9c6a41e021321a814fac1aa27bd4266208b4507709ecbc28fc99693adfbd0c41"
 dependencies = [
@@ -1043,7 +1043,7 @@ dependencies = [
 
 [[package]]
 name = "pgrx-pg-config"
-version = "0.11.0"
+version = "0.11.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "17da1e26800e747d501b8d8bb8aeee4530a07d93a39c3fb2c4229a8feff213b2"
 dependencies = [
@@ -1061,7 +1061,7 @@ dependencies = [
 
 [[package]]
 name = "pgrx-pg-sys"
-version = "0.11.0"
+version = "0.11.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f9032b517525ec71579cc68e92905b5f5f63e892c094834202313c42f2f1a669"
 dependencies = [
@@ -1083,7 +1083,7 @@ dependencies = [
 
 [[package]]
 name = "pgrx-sql-entity-graph"
-version = "0.11.0"
+version = "0.11.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "2e4a88203974b887bca8bfdea17ab9936411fb7e84957763dc0124df78d07907"
 dependencies = [
@@ -1098,7 +1098,7 @@ dependencies = [
 
 [[package]]
 name = "pgrx-tests"
-version = "0.11.0"
+version = "0.11.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c80deb4310538e6ef14f4cbb30b56eb24b6d7aae66bfd4e516f153987159e65e"
 dependencies = [
